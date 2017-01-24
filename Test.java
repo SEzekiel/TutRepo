@@ -4,4 +4,7 @@ public class Test{
 		System.out.println("Hello world"); 
 
 	}
+	public void printR(){
+		System.out.println("R"); 		
+	}
 }
