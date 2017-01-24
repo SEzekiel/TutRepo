@@ -7,4 +7,8 @@ public class Test{
 	public void printR(){
 		System.out.println("R"); 		
 	}
+
+		public void printQ(){
+		System.out.println("Q"); 		
+	}
 }
